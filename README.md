@@ -1,2 +1,2 @@
 # git_practice
-this repo is used to practice git
+this2 repo is used to practice git
